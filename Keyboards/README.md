@@ -9,19 +9,13 @@ While looking through youtube finding videos for switch reviews i came across tw
 ## The Game Changers.
 | [My keyboard journey](https://www.youtube.com/watch?v=uilLCe1fvb0)  | [My keyboard journey](https://www.youtube.com/watch?v=pK41Mr4Kdd0) |
 | -------------- | --------------- |
-| ![image1](./images/adam.jpg) | ![image2](./images/next level.jpg) |
+| ![image1](./images/adam.jpg) | ![image2](./images/next_level.jpg) |
 
 
 
 
 
 
-
-keys to a software developers dream
-https://www.youtube.com/watch?v=pK41Mr4Kdd0
-
-my keyboard journey
-https://www.youtube.com/watch?v=uilLCe1fvb0
 
 
 # List of keyboards i have Currently made.
