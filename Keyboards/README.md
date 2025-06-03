@@ -9,7 +9,7 @@ While looking through youtube finding videos for switch reviews i came across tw
 ## The Game Changers.
 
 [My keyboard journey](https://www.youtube.com/watch?v=uilLCe1fvb0)
-
+     ![Image 1](./images/adam.jpg)  &nbsp;  ![Image 2](image2.png)
 
 
 
