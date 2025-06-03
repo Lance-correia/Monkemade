@@ -1,5 +1,8 @@
+# The journey of going split.
 # List of keyboards i have Currently made.
  - [Lily 58](./Lily58.md) 
- - Skeletyl
+ - [Skorne](./Skorne.md)
  - Charybdis nano
- - Totem
+
+# Upcoming.
+ - [Totem](./Totem.md)
